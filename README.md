@@ -1,5 +1,5 @@
-SimpleHttpServer
-================
+SimpleHttpServer with Java
+==========================
 
 A simple http server to serve static web page with Java.
 
